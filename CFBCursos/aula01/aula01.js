@@ -1,0 +1,1 @@
+console.log("Alô Mundo") //Método de impressão
