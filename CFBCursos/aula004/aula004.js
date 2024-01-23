@@ -12,10 +12,10 @@ console.log(div) //Impressão
 rest = mult % soma //Resto da divisão
 console.log(rest) //Impressão
 
-num1++ //Encrementa de 1 em 1
+num1++ //Incrementa de 1 em 1
 console.log(num1) //Impressão
 
-num2-- //Dencrementa de 1 em 1
+num2-- //Decrementa de 1 em 1
 console.log(num2) //Impressão
 
 num1 += 5 //Soma 5 na variável num1(num1 = num1 + 5)

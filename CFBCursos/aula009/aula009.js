@@ -6,5 +6,5 @@ console.log(n1) //Impressão
 
 console.log(++n2) //Impressão de pré-incremento
 
-console.log(n3++) //Impressão de pos-incremento
+console.log(n3++) //Impressão de pós-incremento
 console.log(n3) //Impressão

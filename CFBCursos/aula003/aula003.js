@@ -1,5 +1,5 @@
-var nome ="Rafael" //Esclopo global
+var nome ="Rafael" //Escopo global
 
-let nome ="Rafael" //Esclopo por bloco
+let nome ="Rafael" //Escopo por bloco
 
-const nome ="Rafael" //Esclopo por bloco, sem poder redefinir
+const nome ="Rafael" //Escopo por bloco, sem poder redefinir
